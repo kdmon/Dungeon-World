@@ -1,5 +1,5 @@
 # Dungeon World
-Dungeon World is a tabletop roleplaying game. This text tells you how to play that game.
+Dungeon World is an tabletop roleplaying game. This text tells you how to play that game.
 
 You'll find the entire text of the game, broken up by chapter, here. The text is formatted in XML designed to be consumed by [InDesign](http://www.adobe.com/products/indesign.html). Forgive any odd formatting or bad style, that's usually a concession to InDesign.
 
